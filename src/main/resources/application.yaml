@@ -1,0 +1,10 @@
+server:
+  port: 8099
+spring:
+  application:
+    name: avaliacao-service
+
+url.ambienteApiAcompanhamento: https://api-acompanha-avalia-servicos.dev.nuvem.gov.br/api/acompanhamento/
+url.ambienteApiAvaliacao: https://api-acompanha-avalia-servicos.dev.nuvem.gov.br/api/avaliacao/formulario/
+
+user.credencialApiAvaliacao: ZGlzaXNAaW5waS5nb3YuYnI6Rm93UzU0bzdTNQ==
